@@ -1,0 +1,15 @@
+C:\Users\renribeiro\Desktop\aks-resources\appnet\bin\Debug\net7.0\appnet.exe
+C:\Users\renribeiro\Desktop\aks-resources\appnet\bin\Debug\net7.0\appnet.deps.json
+C:\Users\renribeiro\Desktop\aks-resources\appnet\bin\Debug\net7.0\appnet.runtimeconfig.json
+C:\Users\renribeiro\Desktop\aks-resources\appnet\bin\Debug\net7.0\appnet.dll
+C:\Users\renribeiro\Desktop\aks-resources\appnet\bin\Debug\net7.0\appnet.pdb
+C:\Users\renribeiro\Desktop\aks-resources\appnet\obj\Debug\net7.0\appnet.csproj.AssemblyReference.cache
+C:\Users\renribeiro\Desktop\aks-resources\appnet\obj\Debug\net7.0\appnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renribeiro\Desktop\aks-resources\appnet\obj\Debug\net7.0\appnet.AssemblyInfoInputs.cache
+C:\Users\renribeiro\Desktop\aks-resources\appnet\obj\Debug\net7.0\appnet.AssemblyInfo.cs
+C:\Users\renribeiro\Desktop\aks-resources\appnet\obj\Debug\net7.0\appnet.csproj.CoreCompileInputs.cache
+C:\Users\renribeiro\Desktop\aks-resources\appnet\obj\Debug\net7.0\appnet.dll
+C:\Users\renribeiro\Desktop\aks-resources\appnet\obj\Debug\net7.0\refint\appnet.dll
+C:\Users\renribeiro\Desktop\aks-resources\appnet\obj\Debug\net7.0\appnet.pdb
+C:\Users\renribeiro\Desktop\aks-resources\appnet\obj\Debug\net7.0\appnet.genruntimeconfig.cache
+C:\Users\renribeiro\Desktop\aks-resources\appnet\obj\Debug\net7.0\ref\appnet.dll
