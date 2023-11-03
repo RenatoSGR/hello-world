@@ -10,7 +10,7 @@ app.MapGet("/", async (context) =>
 {
     //Set the user id, password and data source
     //Set Data Source value to Oracle connect descriptor or net service name
-    string conString = "User Id=HR;Password=<PASSWORD>;Data Source=<DATA SOURCE>;";
+    string conString = "User Id=HR;Password=admin;Data Source=oracle:db;";
     using (OracleConnection con = new OracleConnection(conString))
     {
         using (OracleCommand cmd = con.CreateCommand())
